@@ -662,14 +662,7 @@
   },
   {
     "id": "sei10knxlv9e54z0xcywdhtycc63uf970aefeec73ycqwd75ep9nu45sh66m6a",
-    "name": "seilor",
-    "symbol": "SEILOR",
-    "decimals": "6",
-    "type": "cw20",
-    "total_supply_api": "https://sei-api.polkachu.com/cosmwasm/wasm/v1/contract/sei10knxlv9e54z0xcywdhtycc63uf970aefeec73ycqwd75ep9nu45sh66m6a/smart/eyJ0b2tlbl9pbmZvIjoge319"
-  },
-  {
-    "id": "sei10knxlv9e54z0xcywdhtycc63uf970aefeec73ycqwd75ep9nu45sh66m6a",
+    "entity": "SEILOR",
     "name": "seilor",
     "symbol": "SEILOR",
     "decimals": "6",
